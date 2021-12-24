@@ -1,0 +1,16 @@
+{
+  "name": "browserify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cwy-number-add": "file:../../npm/cwy-number-add/cwy-number-add-1.0.0.tgz",
+    "uniq": "^1.0.1"
+  },
+  "dependencies": {}
+}
